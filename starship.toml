@@ -1,0 +1,16 @@
+
+# Disable the AWS module
+[aws]
+disabled = true
+
+[git_branch]
+symbol = "🐙 "
+
+[git_commit]
+disabled = false
+
+[git_status]
+disabled = false
+
+[nodejs]
+symbol = "🌱 "
